@@ -1,0 +1,24 @@
+Name: Sean O'Sullivan
+Email: sposul23@g.holycross.edu
+Assignment: Project 5
+
+Collaboration Log:
+
+Dec 1: I discussed with Jaren how to use the GUI library
+
+
+Dec 10: I downloaded the following pictures from the internet:
+
+	https://picsart.com/i/sticker-sid-sidphillips-toystory-bully-bullies-toy-story-307371702287211
+
+	https://www.google.com/search?q=toy+story+background&tbm=isch&source=univ&sa=X&ved=2ahUKEwjjq6qfv6zmAhXPhOAKHS_4A70QsAR6BAgHEAE&biw=819&bih=933#imgrc=0a_j3udnzWQZcM:
+
+https://www.google.com/search?q=woody+png+transparent&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHsde1v6zmAhXOneAKHYylBuwQ_AUoAXoECAoQAw&biw=819&bih=933#imgrc=OqMXqTalLks05M:
+
+https://www.google.com/search?tbm=isch&sa=1&ei=Xk3wXaKKO8mw5wKwkYaADQ&q=toy+story+sid+face+png&oq=toy+story+sid+face+png&gs_l=img.3...5588.6387..6555...0.0..0.210.554.4j1j1......0....1..gws-wiz-img.......0j0i8i30j0i30.05oq80umoEI&ved=0ahUKEwiisdnEv6zmAhVJ2FkKHbCIAdAQ4dUDCAc&uact=5#imgrc=O8q5K_BddgYFuM:
+
+Dec 10: I discussed with Jaren and he helped me find a missing base case that i had in my fill() function.
+
+
+
+I added a flagging function that allows the user the user to right click on a cell that isn't revealed to flag the cell. If the user puts flags on all the mines and no other cells they win the game. The user can also right click on a cell that is flagged and it will remove the flag. Flags are represented by a pink cell. I also added an autofill function that reveals surrounding cells if the neighborMineCount is zero. The mines in the game are represented by Sid (a character from Toy Story). If the player loses, a losing message will pop up on the screen as well as Sid with a magnified glass. If the player wins, a winning message will pop up on the screen.
